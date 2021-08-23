@@ -1,4 +1,4 @@
-**Recognising Indic Languages using Wikipedia Data: An Experiment with Logistic Regression.**
+**Detecting Indic Languages using Wikipedia Data: An Experiment with Logistic Regression.**
 
 This script experiments with a logistic regression model to differentiate between sentences from four different languages: Sanskrit, Hindi, Nepali, and English. It is based purely on data scraped from Wikipedia, which has articles in all four languages. Random articles from all four languages are downloaded using Python's *wikipedia* library, and the results are stored locally in a CSV file using Pandas.
 
